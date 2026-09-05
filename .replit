@@ -1,5 +1,5 @@
 modules = ["java-graalvm22.3", "nix"]
-run = "echo 'Please use the Shell tab to run your programs:' && echo '  javac Lab2App.java && java Lab2App'"
+run = "echo 'Please use the Shell tab to run your programs:' && echo '  javac Project1.java && java Project1'"
 
 [nix]
 channel = "stable-25_05"
